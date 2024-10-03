@@ -50,7 +50,7 @@ This Python-based package manager is built to simplify the management of package
 Clone the repository:
 `git clone <https://github.com/genrichh93/Windows-Package-Manager/tree/main>`
 
-cd <repository>
+Run App
 `python app.py`
 
 ## Requirements
