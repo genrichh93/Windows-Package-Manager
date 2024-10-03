@@ -48,20 +48,10 @@ This Python-based package manager is built to simplify the management of package
 
 ## Getting Started
 Clone the repository:
-
-bash
-Code kopieren
 `git clone <https://github.com/genrichh93/Windows-Package-Manager/tree/main>`
+
 cd <repository>
-Install required dependencies:
-
-
-`pip install tkinter`
-Run the application:
-
-
 `python app.py`
-
 
 ## Requirements
 Python 3.x
